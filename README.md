@@ -6,3 +6,14 @@ Policy Topics and Toxic Content Than Conservatives on Social Media" (https://osf
 There are two main datasets: master_df.csv contains metadata per tweet, 
 
 The dataset is based on Frimer et al. 2022.
+
+## Python Dependencies
+
+"""
+numpy
+pandas
+seaborn
+CatBoost
+matplotlib
+Scipy
+"""
